@@ -34,5 +34,6 @@ Crie uma branch para sua funcionalidade (git checkout -b feature/nome-da-funcion
 Faça o commit das suas alterações (git commit -m 'Adiciona nova funcionalidade').
 Envie a branch (git push origin feature/nome-da-funcionalidade).
 Abra um pull request.
-Licença
+
+Licença:
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
