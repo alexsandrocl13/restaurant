@@ -20,6 +20,7 @@ Clone o repositório para sua máquina local:
 bash
 Copiar código
 git clone https://github.com/alexsandrocl13/restaurant.git
+
 Configure um ambiente de servidor local (XAMPP, WAMP, ou outro) para rodar a aplicação PHP.
 
 Importe o banco de dados (arquivo database.sql) para o MySQL.
