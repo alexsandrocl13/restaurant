@@ -27,7 +27,6 @@ Importe o banco de dados (arquivo database.sql) para o MySQL.
 
 Execute o projeto no navegador, acessando o endereço do seu servidor local.
 
-Contribuição
 Contribuições são bem-vindas! Para contribuir:
 
 Faça um fork do repositório.
